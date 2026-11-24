@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Batman Lifts | Beginner Training by Mumin Bhatt</title>
+<meta name="description" content="Beginner workout plans for the gym and home, exercise form guide, nutrition basics and custom plans by Mumin Bhatt.">
+<meta name="theme-color" content="#09090a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="loader" aria-hidden="true"><div class="ld">BATMAN LIFTS</div></div>
+<div id="progress"></div>
+<div id="glow"></div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="#top-of-page">BATMAN<b>LIFTS</b></a>
+    <nav class="links" aria-label="Sections">
+      <a href="#rules">Start here</a>
+      <a href="#plans">Plans</a>
+      <a href="#moves">Exercises</a>
+      <a href="#food">Nutrition</a>
+      <a href="#faq">FAQ</a>
+      <a href="#custom">Contact</a>
+    </nav>
+    <button class="menu" type="button" aria-label="Open menu" aria-expanded="false">Menu</button>
+  </div>
+</header>
+
+<main id="top-of-page">
+<div class="hero">
+  <div class="hero-bg"></div>
+  <canvas id="fx" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div class="eyebrow">Beginner training by Mumin Bhatt</div>
+    <h1><span class="ln"><span>Heavy iron.</span></span><span class="ln"><span>Zero shortcuts.</span></span></h1>
+    <p class="lead">Everything a first-time lifter needs: four ready-made plans for the gym and home, a form guide for the key lifts, and simple food rules. Pick a plan and start this week.</p>
+    <div class="typed" id="typed" aria-live="off"></div>
+    <div class="row">
+      <a class="btn" href="#plans">Choose your plan</a>
+      <a class="btn ghost" href="#custom">Get a custom plan</a>
+    </div>
+  </div>
+  <div class="scroll-cue" aria-hidden="true"></div>
+</div>
+
+<div class="marquee" aria-hidden="true"><div class="track">
+  <span>NOTHING IS GAINED WITHOUT LOSING</span><span>HEAVY IRON</span><span>FAST BIKES</span><span>ZERO SHORTCUTS</span><span>DISCIPLINE OVER MOTIVATION</span><span>SHOW UP</span><span>LIFT</span><span>REPEAT</span>
+  <span>NOTHING IS GAINED WITHOUT LOSING</span><span>HEAVY IRON</span><span>FAST BIKES</span><span>ZERO SHORTCUTS</span><span>DISCIPLINE OVER MOTIVATION</span><span>SHOW UP</span><span>LIFT</span><span>REPEAT</span>
+</div></div>
+
+<div class="wrap">
+  <div class="stats">
+    <div class="stat rv"><b data-to="4">4</b><span>Ready-made plans</span></div>
+    <div class="stat rv d1"><b data-to="12">12</b><span>Exercises explained</span></div>
+    <div class="stat rv d2"><b data-to="3">3</b><span>Days a week is enough</span></div>
+    <div class="stat rv d3"><b data-to="8">8</b><span>Weeks to real change</span></div>
+  </div>
+</div>
+
+<section id="rules">
+  <div class="wrap">
+    <h2 class="rv">Start <em>here</em></h2>
+    <p class="sub rv d1">Five rules decide whether a beginner makes progress. Swipe through them, then pick a plan.</p>
+    <div class="slider rv d2">
+      <div class="rail" id="rail" tabindex="0" aria-label="Five rules for beginners">
+        <article class="slide" data-n="1" data-tilt><h3>Turn up</h3><p>Three sessions a week you actually finish beat six you plan and skip. Pick days and times you can keep.</p></article>
+        <article class="slide" data-n="2" data-tilt><h3>Form first</h3><p>Use light weights for the first two weeks. Slow, controlled reps teach your body the movement and protect your joints.</p></article>
+        <article class="slide" data-n="3" data-tilt><h3>Add a little</h3><p>Progress means one more rep or a slightly heavier weight than last time. Write your numbers down.</p></article>
+        <article class="slide" data-n="4" data-tilt><h3>Eat and sleep</h3><p>Muscle is built during recovery. Get enough protein every day and 7 to 9 hours of sleep.</p></article>
+        <article class="slide" data-n="5" data-tilt><h3>Be patient</h3><p>Expect real changes in 8 to 12 weeks. Photos and notes show progress the mirror hides.</p></article>
+      </div>
+      <div class="arrows">
+        <button class="arr" id="prev" type="button" aria-label="Previous rule">&larr;</button>
+        <button class="arr" id="next" type="button" aria-label="Next rule">&rarr;</button>
+        <div class="dots" id="dots" aria-hidden="true"></div>
+      </div>
+    </div>
+
+    <div class="split" style="margin-top:70px">
+      <div class="rv l">
+        <h2 style="font-size:clamp(36px,6vw,60px)">How to read the <em>plans</em></h2>
+        <ul class="ticks">
+          <li><b>3 x 10</b> means 3 sets of 10 reps, with rest between sets.</li>
+          <li><b>8-10 reps:</b> choose a weight where you reach 8 with about 2 left in the tank. Hit 10 on every set, then add weight.</li>
+          <li><b>Rest:</b> 90 seconds for big lifts, 60 seconds for smaller ones.</li>
+          <li><b>Tempo:</b> lower for 2 to 3 seconds, then lift with control. No bouncing.</li>
+          <li><b>Warm-up (5 to 8 min):</b> easy cardio, arm circles, cat-cow, 10 squats, 10 glute bridges, then a light first set.</li>
+        </ul>
+      </div>
+      <div class="photo p-ride rv r" role="img" aria-label="Rider on a sports bike at dusk"></div>
+    </div>
+  </div>
+</section>
+
+<section id="plans" class="alt">
+  <div class="wrap">
+    <h2 class="rv">Workout <em>plans</em></h2>
+    <p class="sub rv d1">Choose one plan and run it for at least 8 weeks. Do not mix plans in the first month.</p>
+    <div class="tabs rv d2" role="tablist" aria-label="Workout plans">
+      <button class="tab" role="tab" aria-selected="true" type="button">A: Full body</button>
+      <button class="tab" role="tab" aria-selected="false" type="button">B: Upper / lower</button>
+      <button class="tab" role="tab" aria-selected="false" type="button">C: Home plan</button>
+      <button class="tab" role="tab" aria-selected="false" type="button">D: Posture</button>
+    </div>
+
+    <div class="panel on" role="tabpanel">
+      <h4>Plan A: Full body</h4>
+      <div class="pills"><span class="pill">Gym</span><span class="pill">3 days a week</span><span class="pill">60 min</span></div>
+      <p class="sub" style="margin-bottom:12px">Week 1: Monday A, Wednesday B, Friday A. Week 2: Monday B, Wednesday A, Friday B. Keep alternating.</p>
+      <h4>Workout A</h4>
+      <div class="tw"><table><thead><tr><th>Exercise</th><th>Sets x reps</th><th>Rest</th></tr></thead><tbody>
+        <tr><td>Goblet squat</td><td>3 x 8-10</td><td>90 s</td></tr>
+        <tr><td>Dumbbell bench press</td><td>3 x 8-10</td><td>90 s</td></tr>
+        <tr><td>Seated cable row</td><td>3 x 10-12</td><td>90 s</td></tr>
+        <tr><td>Dumbbell shoulder press</td><td>2 x 10</td><td>60 s</td></tr>
+        <tr><td>Plank</td><td>3 x 30 s</td><td>45 s</td></tr>
+      </tbody></table></div>
+      <h4>Workout B</h4>
+      <div class="tw"><table><thead><tr><th>Exercise</th><th>Sets x reps</th><th>Rest</th></tr></thead><tbody>
+        <tr><td>Dumbbell Romanian deadlift</td><td>3 x 8-10</td><td>90 s</td></tr>
+        <tr><td>Lat pulldown</td><td>3 x 10-12</td><td>90 s</td></tr>
+        <tr><td>Incline dumbbell press</td><td>3 x 8-10</td><td>90 s</td></tr>
+        <tr><td>Leg press</td><td>2 x 12</td><td>60 s</td></tr>
+        <tr><td>Biceps curl + triceps pushdown</td><td>2 x 12 each</td><td>60 s</td></tr>
+        <tr><td>Dead bug</td><td>3 x 10 per side</td><td>45 s</td></tr>
+      </tbody></table></div>
+    </div>
+
+    <div class="panel" role="tabpanel">
+      <h4>Plan B: Upper / lower</h4>
+      <div class="pills"><span class="pill">Gym</span><span class="pill">4 days a week</span><span class="pill">60 to 70 min</span></div>
+      <p class="sub" style="margin-bottom:12px">Monday upper 1, Tuesday lower 1, Thursday upper 2, Friday lower 2. Wednesday and weekends are rest or easy walks.</p>
+      <div class="tw"><table><thead><tr><th>Day</th><th>Exercise</th><th>Sets x reps</th></tr></thead><tbody>
+        <tr><td rowspan="6">Upper 1</td><td>Dumbbell or barbell bench press</td><td>3 x 6-8</td></tr>
+        <tr><td>One-arm dumbbell row</td><td>3 x 8-10</td></tr>
+        <tr><td>Overhead press</td><td>3 x 8</td></tr>
+        <tr><td>Lat pulldown</td><td>3 x 10</td></tr>
+        <tr><td>Lateral raise</td><td>3 x 12-15</td></tr>
+        <tr><td>Triceps pushdown</td><td>2 x 12</td></tr>
+        <tr><td rowspan="6">Lower 1</td><td>Squat or leg press</td><td>3 x 6-8</td></tr>
+        <tr><td>Romanian deadlift</td><td>3 x 8</td></tr>
+        <tr><td>Walking lunge</td><td>2 x 10 per leg</td></tr>
+        <tr><td>Leg curl</td><td>3 x 10-12</td></tr>
+        <tr><td>Standing calf raise</td><td>3 x 12-15</td></tr>
+        <tr><td>Plank</td><td>3 x 40 s</td></tr>
+        <tr><td rowspan="6">Upper 2</td><td>Incline dumbbell press</td><td>3 x 8-10</td></tr>
+        <tr><td>Seated cable row</td><td>3 x 10</td></tr>
+        <tr><td>Push-up (stop with 2 reps left)</td><td>2 sets</td></tr>
+        <tr><td>Face pull</td><td>3 x 15</td></tr>
+        <tr><td>Biceps curl</td><td>3 x 10-12</td></tr>
+        <tr><td>Overhead triceps extension</td><td>2 x 12</td></tr>
+        <tr><td rowspan="6">Lower 2</td><td>Trap-bar or light conventional deadlift</td><td>3 x 5</td></tr>
+        <tr><td>Goblet or front squat</td><td>3 x 8-10</td></tr>
+        <tr><td>Hip thrust</td><td>3 x 10</td></tr>
+        <tr><td>Leg extension</td><td>2 x 12</td></tr>
+        <tr><td>Seated calf raise</td><td>3 x 12-15</td></tr>
+        <tr><td>Hanging knee raise</td><td>3 x 8-12</td></tr>
+      </tbody></table></div>
+    </div>
+
+    <div class="panel" role="tabpanel">
+      <h4>Plan C: Home, no gym</h4>
+      <div class="pills"><span class="pill">Home</span><span class="pill">3 days a week</span><span class="pill">40 min</span></div>
+      <p class="sub" style="margin-bottom:12px">You need a backpack, a sturdy chair, two water jugs and a towel. Fill the backpack with books to add weight. Train Monday, Wednesday and Friday.</p>
+      <div class="tw"><table><thead><tr><th>Day</th><th>Exercise</th><th>Sets x reps</th></tr></thead><tbody>
+        <tr><td rowspan="5">Day 1</td><td>Backpack goblet squat</td><td>3 x 12-15</td></tr>
+        <tr><td>Push-up (hands on a chair if needed)</td><td>3 x 6-12</td></tr>
+        <tr><td>Backpack bent-over row</td><td>3 x 12</td></tr>
+        <tr><td>Glute bridge</td><td>3 x 15</td></tr>
+        <tr><td>Dead bug</td><td>3 x 10 per side</td></tr>
+        <tr><td rowspan="5">Day 2</td><td>Reverse lunge</td><td>3 x 10 per leg</td></tr>
+        <tr><td>Pike push-up</td><td>3 x 6-10</td></tr>
+        <tr><td>Single-arm backpack row</td><td>3 x 10 per side</td></tr>
+        <tr><td>Single-leg Romanian deadlift with a water jug</td><td>3 x 10 per leg</td></tr>
+        <tr><td>Side plank</td><td>3 x 20-30 s per side</td></tr>
+        <tr><td rowspan="5">Day 3</td><td>Step-up on a sturdy chair</td><td>3 x 10 per leg</td></tr>
+        <tr><td>Push-up, slow lowering (3 seconds)</td><td>3 x 6-10</td></tr>
+        <tr><td>Backpack Romanian deadlift</td><td>3 x 12</td></tr>
+        <tr><td>Wall sit</td><td>3 x 30-45 s</td></tr>
+        <tr><td>Bird dog</td><td>3 x 10 per side</td></tr>
+      </tbody></table></div>
+      <p class="small">To progress at home: add reps, slow the lowering phase, add books to the backpack, then move to single-leg versions.</p>
+    </div>
+
+    <div class="panel" role="tabpanel">
+      <h4>Plan D: Posture and joint-friendly routine</h4>
+      <div class="pills"><span class="pill">Anywhere</span><span class="pill">4 to 6 days a week</span><span class="pill">10 to 15 min</span></div>
+      <p class="sub" style="margin-bottom:12px">Do this on rest days or as a finisher after any plan. Move slowly and never push into sharp pain.</p>
+      <div class="tw"><table><thead><tr><th>Exercise</th><th>Dose</th><th>Why</th></tr></thead><tbody>
+        <tr><td>Chin tuck</td><td>2 x 10</td><td>Resets the head over the shoulders</td></tr>
+        <tr><td>Wall angel</td><td>2 x 10</td><td>Opens the chest and wakes up the upper back</td></tr>
+        <tr><td>Thoracic extension over a chair back</td><td>2 x 8</td><td>Frees the stiff mid-back</td></tr>
+        <tr><td>Cat-cow</td><td>2 x 10</td><td>Moves the spine through its range</td></tr>
+        <tr><td>Glute bridge</td><td>2 x 12</td><td>Strengthens hips that support the lower back</td></tr>
+        <tr><td>Bird dog</td><td>2 x 8 per side</td><td>Builds back and core control</td></tr>
+        <tr><td>Hip flexor stretch</td><td>2 x 30 s per side</td><td>Eases the pull from long sitting</td></tr>
+        <tr><td>Doorway chest stretch</td><td>2 x 30 s</td><td>Loosens tight chest muscles</td></tr>
+      </tbody></table></div>
+      <div class="note">General fitness guidance, not medical advice. If you have sharp, shooting or constant pain, numbness or tingling, see a doctor or physiotherapist before training.</div>
+    </div>
+
+    <h4 style="margin-top:40px">Progression: how to keep improving</h4>
+    <div class="tw rv"><table><thead><tr><th>Week</th><th>Focus</th></tr></thead><tbody>
+      <tr><td>1</td><td>Learn form. Do 2 sets of each exercise with light weights (RPE 6).</td></tr>
+      <tr><td>2</td><td>Add the third set. Keep weights the same.</td></tr>
+      <tr><td>3</td><td>Add reps until you reach the top of each rep range.</td></tr>
+      <tr><td>4</td><td>When you hit the top reps on every set, add the smallest weight jump (about 2.5 kg for dumbbell and cable lifts).</td></tr>
+      <tr><td>5</td><td>Easy week: about two thirds of the sets. Then repeat weeks 2 to 4 with heavier weights.</td></tr>
+    </tbody></table></div>
+
+    <div class="split" style="margin-top:56px">
+      <div class="photo p-home rv l" role="img" aria-label="Home workout with a chair and backpack"></div>
+      <div class="rv r">
+        <h2 style="font-size:clamp(36px,6vw,60px)">No gym? <em>No excuse.</em></h2>
+        <p class="sub" style="margin-top:10px">A backpack, a chair and two water jugs are enough for a complete beginner program. Plan C uses nothing else.</p>
+        <a class="btn" href="#custom">Ask for a home plan</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="moves">
+  <div class="wrap">
+    <h2 class="rv">Exercise <em>guide</em></h2>
+    <p class="sub rv d1">Hover or tap a card to flip it. Front: the move. Back: the cue to remember and the mistake to avoid.</p>
+    <div class="flips">
+      <div class="flip rv" tabindex="0"><div class="flip-in"><div class="face"><h3>Goblet squat</h3><small>Legs, glutes</small></div><div class="face back"><div><b>Cue:</b> chest up, sit between your hips, knees track over toes.</div><div><b>Avoid:</b> heels lifting off the floor.</div></div></div></div>
+      <div class="flip rv d1" tabindex="0"><div class="flip-in"><div class="face"><h3>Romanian deadlift</h3><small>Hamstrings, glutes</small></div><div class="face back"><div><b>Cue:</b> push hips back, keep the weight close to your legs.</div><div><b>Avoid:</b> rounding the lower back.</div></div></div></div>
+      <div class="flip rv d2" tabindex="0"><div class="flip-in"><div class="face"><h3>Dumbbell bench press</h3><small>Chest, triceps</small></div><div class="face back"><div><b>Cue:</b> shoulder blades back and down, elbows about 45 degrees from the body.</div><div><b>Avoid:</b> flaring elbows straight out.</div></div></div></div>
+      <div class="flip rv" tabindex="0"><div class="flip-in"><div class="face"><h3>Push-up</h3><small>Chest, shoulders, core</small></div><div class="face back"><div><b>Cue:</b> one straight line from head to heels, chest to the floor.</div><div><b>Avoid:</b> sagging hips.</div></div></div></div>
+      <div class="flip rv d1" tabindex="0"><div class="flip-in"><div class="face"><h3>Seated cable row</h3><small>Back, biceps</small></div><div class="face back"><div><b>Cue:</b> pull elbows toward your hips, pause for one second.</div><div><b>Avoid:</b> leaning back to swing the weight.</div></div></div></div>
+      <div class="flip rv d2" tabindex="0"><div class="flip-in"><div class="face"><h3>Lat pulldown</h3><small>Lats, biceps</small></div><div class="face back"><div><b>Cue:</b> pull to the upper chest with elbows down.</div><div><b>Avoid:</b> pulling behind the neck.</div></div></div></div>
+      <div class="flip rv" tabindex="0"><div class="flip-in"><div class="face"><h3>Overhead press</h3><small>Shoulders, triceps</small></div><div class="face back"><div><b>Cue:</b> squeeze glutes, ribs down, press straight up.</div><div><b>Avoid:</b> arching the lower back.</div></div></div></div>
+      <div class="flip rv d1" tabindex="0"><div class="flip-in"><div class="face"><h3>Reverse lunge</h3><small>Legs, glutes</small></div><div class="face back"><div><b>Cue:</b> step back, front shin stays vertical.</div><div><b>Avoid:</b> short steps that push the knee forward.</div></div></div></div>
+      <div class="flip rv d2" tabindex="0"><div class="flip-in"><div class="face"><h3>Glute bridge</h3><small>Glutes</small></div><div class="face back"><div><b>Cue:</b> chin tucked, pause and squeeze at the top.</div><div><b>Avoid:</b> arching the back instead of using the hips.</div></div></div></div>
+      <div class="flip rv" tabindex="0"><div class="flip-in"><div class="face"><h3>Plank</h3><small>Core</small></div><div class="face back"><div><b>Cue:</b> ribs down, squeeze glutes, push the floor away.</div><div><b>Avoid:</b> hips too high or too low.</div></div></div></div>
+      <div class="flip rv d1" tabindex="0"><div class="flip-in"><div class="face"><h3>Dead bug</h3><small>Deep core</small></div><div class="face back"><div><b>Cue:</b> keep your lower back flat on the floor.</div><div><b>Avoid:</b> moving too fast.</div></div></div></div>
+      <div class="flip rv d2" tabindex="0"><div class="flip-in"><div class="face"><h3>Face pull</h3><small>Rear shoulders, upper back</small></div><div class="face back"><div><b>Cue:</b> pull to your face, elbows high, hands apart at the end.</div><div><b>Avoid:</b> using too much weight.</div></div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="food" class="alt">
+  <div class="wrap">
+    <div class="split">
+      <div class="rv l">
+        <h2>Fuel the <em>work</em></h2>
+        <p class="sub">Keep it simple. Eat enough protein, eat mostly whole foods, and adjust calories to your goal.</p>
+        <ul class="ticks">
+          <li><b>Protein:</b> about 1.6 to 2.2 g per kg of bodyweight a day, over 3 to 4 meals.</li>
+          <li><b>Calories:</b> lose fat at about 300 to 500 below maintenance. Build muscle at about 200 to 300 above.</li>
+          <li><b>Water:</b> 2 to 3 litres a day, more when you sweat.</li>
+          <li><b>Sleep:</b> 7 to 9 hours. Poor sleep raises hunger and lowers training quality.</li>
+        </ul>
+      </div>
+      <div class="photo p-food rv r" role="img" aria-label="High-protein meal prep"></div>
+    </div>
+
+    <h4 style="margin-top:56px">Calorie and protein estimator</h4>
+    <p class="small">A starting estimate only. Track your bodyweight for 2 to 3 weeks, then adjust by 100 to 150 calories if nothing changes.</p>
+    <form class="calc" id="calc" autocomplete="off">
+      <label for="sex">Sex<select id="sex"><option value="m">Male</option><option value="f">Female</option></select></label>
+      <label for="age">Age (years)<input id="age" type="number" min="14" max="90" value="25"></label>
+      <label for="wt">Weight (kg)<input id="wt" type="number" min="30" max="250" value="70"></label>
+      <label for="ht">Height (cm)<input id="ht" type="number" min="120" max="230" value="172"></label>
+      <label for="act">Activity<select id="act"><option value="1.375">Light: 3 workouts a week</option><option value="1.55" selected>Moderate: 4 to 5 workouts a week</option><option value="1.725">High: active job plus training</option></select></label>
+      <label for="goal">Goal<select id="goal"><option value="-400">Lose fat</option><option value="0">Maintain</option><option value="250">Build muscle</option></select></label>
+    </form>
+    <div class="result" aria-live="polite">
+      <div class="rcard"><div class="big" id="r-maint">-</div><div class="small">Maintenance calories per day</div></div>
+      <div class="rcard"><div class="big" id="r-target">-</div><div class="small">Target calories per day</div></div>
+      <div class="rcard"><div class="big" id="r-prot">-</div><div class="small">Grams of protein per day</div></div>
+    </div>
+
+    <h4 style="margin-top:44px">Sample day of eating</h4>
+    <div class="tw"><table><thead><tr><th>Meal</th><th>Vegetarian</th><th>Non-vegetarian</th></tr></thead><tbody>
+      <tr><td>Breakfast</td><td>Paneer bhurji, 2 rotis, fruit</td><td>3 eggs, 2 slices of toast, fruit</td></tr>
+      <tr><td>Lunch</td><td>Dal, rice, vegetables, curd</td><td>Chicken curry, rice, salad</td></tr>
+      <tr><td>Snack</td><td>Roasted chana, whey or a glass of milk</td><td>Greek yogurt or whey, banana</td></tr>
+      <tr><td>Dinner</td><td>Soya chunks or tofu, roti, sabzi</td><td>Grilled fish or chicken, roti, vegetables</td></tr>
+    </tbody></table></div>
+    <div class="note">General guidance for healthy adults. If you have a medical condition, are pregnant or take medication, check with a doctor or dietitian first.</div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <h2 class="rv">Common <em>questions</em></h2>
+    <div class="rv d1" style="margin-top:20px">
+      <details><summary>How many days a week should I train?</summary><p>Three full-body days is enough to make strong progress. Four days works if you recover well. More is not better at the start.</p></details>
+      <details><summary>Will lifting make me bulky?</summary><p>No. Gaining large amounts of muscle takes years of hard training and a calorie surplus. Beginners get stronger and leaner first.</p></details>
+      <details><summary>How long until I see results?</summary><p>Strength usually goes up within 2 to 3 weeks. Visible changes take about 8 to 12 weeks of steady training and eating.</p></details>
+      <details><summary>I missed a workout. What now?</summary><p>Do the next workout in order. Do not double up. One missed session changes nothing, one missed month does.</p></details>
+      <details><summary>Do I need supplements?</summary><p>No. Food comes first. If you struggle to reach your protein, whey protein is a convenient, well-studied option.</p></details>
+      <details><summary>Is muscle soreness normal?</summary><p>Mild soreness for 1 to 2 days in the first weeks is normal. Sharp, joint or lasting pain is not. Lower the weight and see a professional if it continues.</p></details>
+      <details><summary>Should I do cardio?</summary><p>Yes, in small amounts. Walk daily and add 1 to 2 easy sessions of 20 to 30 minutes for heart health. Keep lifting as the main focus.</p></details>
+    </div>
+  </div>
+</section>
+
+<section id="custom" class="alt">
+  <div class="wrap">
+    <div class="cta rv">
+      <div class="eyebrow">Work with me</div>
+      <h2>Want a plan built for you?</h2>
+      <p class="sub">Get a customised workout plan or meal plan that fits your goal, schedule, equipment and food preferences. Message me and tell me where you are starting from.</p>
+      <div class="contact">
+        <a class="cc" href="https://wa.me/919682311922?text=Hi%20Mumin%2C%20I%20saw%20your%20beginner%20lifts%20website.%20I%27d%20like%20a%20customised%20plan." rel="noopener"><b>WhatsApp</b><span>+91 96823 11922</span></a>
+        <a class="cc" href="tel:+919682311922"><b>Call</b><span>+91 96823 11922</span></a>
+        <a class="cc" href="https://www.instagram.com/batman_lifts_/" rel="noopener"><b>Instagram</b><span>@batman_lifts_</span></a>
+      </div>
+      <div class="msg" id="msg">Hi Mumin, I saw your beginner lifts website. I'd like a customised plan. My goal is ____. I can train ____ days a week at the gym / at home. My weight is ____ kg, height ____ cm, and my food preference is ____.</div>
+      <div class="row" style="margin-top:16px">
+        <button class="btn ghost" type="button" id="copy">Copy this message</button>
+      </div>
+      <p class="small" id="copystate" aria-live="polite" style="margin-top:12px">Copy the message and send it on WhatsApp or Instagram.</p>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <a class="logo" href="#top-of-page">BATMAN<b>LIFTS</b></a>
+    <p>Created by Mumin Bhatt. Instagram @batman_lifts_. WhatsApp and calls: +91 96823 11922.</p>
+    <p>This site is general fitness information, not medical advice. Check with a doctor before starting a new exercise or nutrition programme, especially if you have an injury or health condition. Photos on this site are AI-generated illustrations.</p>
+  </div>
+</footer>
+
+<div class="fab">
+  <a class="wa" href="https://wa.me/919682311922?text=Hi%20Mumin%2C%20I%20saw%20your%20beginner%20lifts%20website." rel="noopener" aria-label="Chat on WhatsApp">WA</a>
+  <button id="top" type="button" aria-label="Back to top">&uarr;</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
