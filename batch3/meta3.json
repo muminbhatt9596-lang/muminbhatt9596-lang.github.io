@@ -10,7 +10,9 @@
    "shorts"
   ],
   "publishAt": "2026-11-29T07:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 1,
+  "order": 0
  },
  "s22": {
   "file": "s22.mp4",
@@ -22,8 +24,10 @@
    "gym tips",
    "shorts"
   ],
-  "publishAt": "2026-11-29T10:00:00+05:30",
-  "kind": "short"
+  "publishAt": "2026-11-29T12:00:00+05:30",
+  "kind": "short",
+  "batch": 1,
+  "order": 1
  },
  "s10": {
   "file": "s10.mp4",
@@ -35,8 +39,10 @@
    "macros",
    "shorts"
   ],
-  "publishAt": "2026-11-29T12:00:00+05:30",
-  "kind": "short"
+  "publishAt": "2026-11-29T15:00:00+05:30",
+  "kind": "short",
+  "batch": 1,
+  "order": 2
  },
  "s15": {
   "file": "s15.mp4",
@@ -48,35 +54,10 @@
    "hypertrophy",
    "shorts"
   ],
-  "publishAt": "2026-11-29T15:00:00+05:30",
-  "kind": "short"
- },
- "s11": {
-  "file": "s11.mp4",
-  "title": "How Much Protein Do You Really Need? #Shorts",
-  "desc": "How Much Protein?\n\nDaily target: 1.6\u20132.2 grams per kg of bodyweight per day for building muscle\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "protein",
-   "macros",
-   "muscle building",
-   "fat loss",
-   "shorts"
-  ],
-  "publishAt": "2026-11-29T18:00:00+05:30",
-  "kind": "short"
- },
- "s06": {
-  "file": "s06.mp4",
-  "title": "Will Lifting Weights Make Women Bulky? #Shorts",
-  "desc": "Will Lifting Make You Bulky?\n\nMyth: Lifting makes women bulky \u2014 Building lots of muscle takes years of hard training and a calorie surplus.\nWhat lifting really does: STRONGER firmer shape, better posture stronger bones\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "women lifting",
-   "strength training",
-   "muscle building",
-   "shorts"
-  ],
   "publishAt": "2026-11-29T22:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 1,
+  "order": 3
  },
  "l4": {
   "file": "l4.mp4",
@@ -89,7 +70,40 @@
    "nutrition myths"
   ],
   "publishAt": "2026-11-29T20:00:00+05:30",
-  "kind": "long"
+  "kind": "long",
+  "batch": 1,
+  "order": 4
+ },
+ "s11": {
+  "file": "s11.mp4",
+  "title": "How Much Protein Do You Really Need? #Shorts",
+  "desc": "How Much Protein?\n\nDaily target: 1.6\u20132.2 grams per kg of bodyweight per day for building muscle\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "protein",
+   "macros",
+   "muscle building",
+   "fat loss",
+   "shorts"
+  ],
+  "publishAt": "2026-11-30T07:30:00+05:30",
+  "kind": "short",
+  "batch": 2,
+  "order": 5
+ },
+ "s06": {
+  "file": "s06.mp4",
+  "title": "Will Lifting Weights Make Women Bulky? #Shorts",
+  "desc": "Will Lifting Make You Bulky?\n\nMyth: Lifting makes women bulky \u2014 Building lots of muscle takes years of hard training and a calorie surplus.\nWhat lifting really does: STRONGER firmer shape, better posture stronger bones\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "women lifting",
+   "strength training",
+   "muscle building",
+   "shorts"
+  ],
+  "publishAt": "2026-11-30T12:00:00+05:30",
+  "kind": "short",
+  "batch": 2,
+  "order": 6
  },
  "s02": {
   "file": "s02.mp4",
@@ -101,8 +115,10 @@
    "fitness facts",
    "shorts"
   ],
-  "publishAt": "2026-11-30T07:30:00+05:30",
-  "kind": "short"
+  "publishAt": "2026-11-30T15:00:00+05:30",
+  "kind": "short",
+  "batch": 2,
+  "order": 7
  },
  "s23": {
   "file": "s23.mp4",
@@ -114,61 +130,10 @@
    "training split",
    "shorts"
   ],
-  "publishAt": "2026-11-30T10:00:00+05:30",
-  "kind": "short"
- },
- "s07": {
-  "file": "s07.mp4",
-  "title": "Soreness Does NOT Mean Muscle Growth #Shorts",
-  "desc": "No Soreness = No Growth?\n\nMyth: If you are not sore, it did not work \u2014 Soreness mostly shows novelty. Progress shows in your numbers.\nRule of thumb: BEAT LAST WEEK one more rep or a little more weight that is progressive overload\nRule of thumb: LOG IT \n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "muscle soreness",
-   "DOMS",
-   "hypertrophy",
-   "shorts"
-  ],
-  "publishAt": "2026-11-30T12:00:00+05:30",
-  "kind": "short"
- },
- "s13": {
-  "file": "s13.mp4",
-  "title": "How to Calculate Your Maintenance Calories #Shorts",
-  "desc": "Find Your Maintenance Calories\n\nThen: TRACK 2 WEEKS if weight is stable, that is maintenance\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "maintenance calories",
-   "TDEE",
-   "BMR",
-   "calorie deficit",
-   "shorts"
-  ],
-  "publishAt": "2026-11-30T15:00:00+05:30",
-  "kind": "short"
- },
- "s14": {
-  "file": "s14.mp4",
-  "title": "How Fast Should You Lose Fat? #Shorts",
-  "desc": "How Fast Should You Cut?\n\nSafe pace: 0.5\u20131% of bodyweight per week keeps muscle and energy\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "fat loss rate",
-   "calorie deficit",
-   "weight loss",
-   "shorts"
-  ],
-  "publishAt": "2026-11-30T18:00:00+05:30",
-  "kind": "short"
- },
- "s17": {
-  "file": "s17.mp4",
-  "title": "How Long Should You Rest Between Sets? #Shorts",
-  "desc": "How Long Should You Rest?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "rest between sets",
-   "hypertrophy",
-   "strength",
-   "shorts"
-  ],
   "publishAt": "2026-11-30T22:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 2,
+  "order": 8
  },
  "l1": {
   "file": "l1.mp4",
@@ -183,87 +148,70 @@
    "steps"
   ],
   "publishAt": "2026-11-30T20:00:00+05:30",
-  "kind": "long"
+  "kind": "long",
+  "batch": 2,
+  "order": 9
  },
- "s28": {
-  "file": "s28.mp4",
-  "title": "Stop Skipping Your Warm-Up Sets #Shorts",
-  "desc": "Stop Skipping Warm-Up Sets\n\nTime cost: 3 MIN better reps and fewer tweaks\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s07": {
+  "file": "s07.mp4",
+  "title": "Soreness Does NOT Mean Muscle Growth #Shorts",
+  "desc": "No Soreness = No Growth?\n\nMyth: If you are not sore, it did not work \u2014 Soreness mostly shows novelty. Progress shows in your numbers.\nRule of thumb: BEAT LAST WEEK one more rep or a little more weight that is progressive overload\nRule of thumb: LOG IT \n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "warm up",
-   "injury prevention",
-   "lifting technique",
+   "muscle soreness",
+   "DOMS",
+   "hypertrophy",
    "shorts"
   ],
   "publishAt": "2026-12-01T07:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 3,
+  "order": 10
  },
- "s26": {
-  "file": "s26.mp4",
-  "title": "Fiber Is the Secret to Feeling Full #Shorts",
-  "desc": "Fiber Keeps You Full\n\nDaily target: 25\u201338 g fiber per day for adults\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s13": {
+  "file": "s13.mp4",
+  "title": "How to Calculate Your Maintenance Calories #Shorts",
+  "desc": "Find Your Maintenance Calories\n\nThen: TRACK 2 WEEKS if weight is stable, that is maintenance\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "fiber",
-   "satiety",
-   "fat loss",
-   "nutrition",
-   "shorts"
-  ],
-  "publishAt": "2026-12-01T10:00:00+05:30",
-  "kind": "short"
- },
- "s04": {
-  "file": "s04.mp4",
-  "title": "Do You Need 6 Small Meals a Day? #Shorts",
-  "desc": "6 Meals A Day Boosts Metabolism?\n\nMyth: Eat every 2\u20133 hours to stoke metabolism \u2014 Total calories and protein matter, not how many meals you split them into.\nThe rule: PROTEIN spread across your meals if it helps then hit your daily target\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "meal frequency",
-   "metabolism",
-   "nutrition myths",
+   "maintenance calories",
+   "TDEE",
+   "BMR",
+   "calorie deficit",
    "shorts"
   ],
   "publishAt": "2026-12-01T12:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 3,
+  "order": 11
  },
- "s30": {
-  "file": "s30.mp4",
-  "title": "Does One Cheat Meal Ruin Your Progress? #Shorts",
-  "desc": "One Cheat Meal Ruins Progress?\n\nMyth: One big meal erases your week \u2014 Weekly calories decide your results. One meal is a small part of the total.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s14": {
+  "file": "s14.mp4",
+  "title": "How Fast Should You Lose Fat? #Shorts",
+  "desc": "How Fast Should You Cut?\n\nSafe pace: 0.5\u20131% of bodyweight per week keeps muscle and energy\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "cheat meal",
-   "diet break",
+   "fat loss rate",
    "calorie deficit",
-   "fat loss",
+   "weight loss",
    "shorts"
   ],
   "publishAt": "2026-12-01T15:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 3,
+  "order": 12
  },
- "s09": {
-  "file": "s09.mp4",
-  "title": "Does Cardio Kill Your Gains? #Shorts",
-  "desc": "Cardio Kills Your Gains?\n\nMyth: Cardio eats your muscle \u2014 Moderate cardio barely affects muscle. It helps heart health and recovery.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s17": {
+  "file": "s17.mp4",
+  "title": "How Long Should You Rest Between Sets? #Shorts",
+  "desc": "How Long Should You Rest?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "cardio",
-   "muscle gain",
-   "interference effect",
-   "shorts"
-  ],
-  "publishAt": "2026-12-01T18:00:00+05:30",
-  "kind": "short"
- },
- "s24": {
-  "file": "s24.mp4",
-  "title": "Heavy vs Light Weights for Muscle Growth #Shorts",
-  "desc": "Light Weight Tones Muscle?\n\nMyth: Light weights tone, heavy weights bulk \u2014 Muscle grows across 5\u201330 reps if sets end near failure.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "rep range",
+   "rest between sets",
    "hypertrophy",
-   "toning",
+   "strength",
    "shorts"
   ],
   "publishAt": "2026-12-01T22:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 3,
+  "order": 13
  },
  "l2": {
   "file": "l2.mp4",
@@ -278,89 +226,71 @@
    "calories"
   ],
   "publishAt": "2026-12-01T20:00:00+05:30",
-  "kind": "long"
+  "kind": "long",
+  "batch": 3,
+  "order": 14
  },
- "s01": {
-  "file": "s01.mp4",
-  "title": "Spot Fat Loss Is a Lie (Do THIS Instead) #Shorts",
-  "desc": "Spot Fat Loss Is A Lie\n\nMyth: Crunches burn belly fat \u2014 Fat leaves your whole body, not just the area you train.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s28": {
+  "file": "s28.mp4",
+  "title": "Stop Skipping Your Warm-Up Sets #Shorts",
+  "desc": "Stop Skipping Warm-Up Sets\n\nTime cost: 3 MIN better reps and fewer tweaks\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "fat loss",
-   "spot reduction",
-   "belly fat",
-   "fitness myths",
+   "warm up",
+   "injury prevention",
+   "lifting technique",
    "shorts"
   ],
   "publishAt": "2026-12-02T07:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 4,
+  "order": 15
  },
- "s25": {
-  "file": "s25.mp4",
-  "title": "The Hidden Calories in Alcohol #Shorts",
-  "desc": "Alcohol Hidden Calories\n\nAlso: 7 KCAL/G almost as dense as fat and it can hurt sleep and recovery\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s26": {
+  "file": "s26.mp4",
+  "title": "Fiber Is the Secret to Feeling Full #Shorts",
+  "desc": "Fiber Keeps You Full\n\nDaily target: 25\u201338 g fiber per day for adults\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "alcohol",
-   "calories",
+   "fiber",
+   "satiety",
    "fat loss",
-   "drinks",
-   "shorts"
-  ],
-  "publishAt": "2026-12-02T10:00:00+05:30",
-  "kind": "short"
- },
- "s03": {
-  "file": "s03.mp4",
-  "title": "Sweating More Does NOT Burn More Fat #Shorts",
-  "desc": "Sweat = Fat Loss?\n\nMyth: Sweaty workout = fat burned \u2014 Sweat is just cooling. Water weight returns when you drink.\nWhat burns fat: CALORIE DEFICIT eating less than you burn over weeks, not one session\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "sweat",
-   "fat loss myths",
-   "cardio",
+   "nutrition",
    "shorts"
   ],
   "publishAt": "2026-12-02T12:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 4,
+  "order": 16
  },
- "s29": {
-  "file": "s29.mp4",
-  "title": "Stuck at a Plateau? Fix It in 4 Steps #Shorts",
-  "desc": "Stuck On A Plateau?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s04": {
+  "file": "s04.mp4",
+  "title": "Do You Need 6 Small Meals a Day? #Shorts",
+  "desc": "6 Meals A Day Boosts Metabolism?\n\nMyth: Eat every 2\u20133 hours to stoke metabolism \u2014 Total calories and protein matter, not how many meals you split them into.\nThe rule: PROTEIN spread across your meals if it helps then hit your daily target\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "plateau",
-   "progress",
-   "training",
-   "deload",
+   "meal frequency",
+   "metabolism",
+   "nutrition myths",
    "shorts"
   ],
   "publishAt": "2026-12-02T15:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 4,
+  "order": 17
  },
- "s21": {
-  "file": "s21.mp4",
-  "title": "How Many Steps Do You Really Need? #Shorts",
-  "desc": "How Many Steps A Day?\n\nHealth sweet spot: 7\u201310K steps per day linked with lower health risk\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s30": {
+  "file": "s30.mp4",
+  "title": "Does One Cheat Meal Ruin Your Progress? #Shorts",
+  "desc": "One Cheat Meal Ruins Progress?\n\nMyth: One big meal erases your week \u2014 Weekly calories decide your results. One meal is a small part of the total.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "daily steps",
-   "walking",
+   "cheat meal",
+   "diet break",
+   "calorie deficit",
    "fat loss",
-   "NEAT",
-   "shorts"
-  ],
-  "publishAt": "2026-12-02T18:00:00+05:30",
-  "kind": "short"
- },
- "s16": {
-  "file": "s16.mp4",
-  "title": "4 Ways to Progressive Overload (Not Just Adding Weight) #Shorts",
-  "desc": "4 Ways To Progressively Overload\n\nGolden rule: LOG IT you cannot beat last week if you do not know last week\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "progressive overload",
-   "muscle growth",
-   "strength training",
    "shorts"
   ],
   "publishAt": "2026-12-02T22:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 4,
+  "order": 18
  },
  "l3": {
   "file": "l3.mp4",
@@ -374,87 +304,71 @@
    "recovery"
   ],
   "publishAt": "2026-12-02T20:00:00+05:30",
-  "kind": "long"
+  "kind": "long",
+  "batch": 4,
+  "order": 19
  },
- "s20": {
-  "file": "s20.mp4",
-  "title": "Sleep Is the Most Underrated Muscle Builder #Shorts",
-  "desc": "Sleep Builds Muscle\n\nTarget: 7\u20139 HRS of sleep per night for most adults\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s09": {
+  "file": "s09.mp4",
+  "title": "Does Cardio Kill Your Gains? #Shorts",
+  "desc": "Cardio Kills Your Gains?\n\nMyth: Cardio eats your muscle \u2014 Moderate cardio barely affects muscle. It helps heart health and recovery.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "sleep",
-   "recovery",
-   "muscle growth",
+   "cardio",
+   "muscle gain",
+   "interference effect",
    "shorts"
   ],
   "publishAt": "2026-12-03T07:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 5,
+  "order": 20
  },
- "s12": {
-  "file": "s12.mp4",
-  "title": "Calories in Protein, Carbs, Fat (and Alcohol) #Shorts",
-  "desc": "Where Do Calories Come From?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s24": {
+  "file": "s24.mp4",
+  "title": "Heavy vs Light Weights for Muscle Growth #Shorts",
+  "desc": "Light Weight Tones Muscle?\n\nMyth: Light weights tone, heavy weights bulk \u2014 Muscle grows across 5\u201330 reps if sets end near failure.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "macros",
-   "calories per gram",
-   "nutrition basics",
-   "shorts"
-  ],
-  "publishAt": "2026-12-03T10:00:00+05:30",
-  "kind": "short"
- },
- "s05": {
-  "file": "s05.mp4",
-  "title": "Carbs at Night Do Not Make You Fat #Shorts",
-  "desc": "Carbs After 8Pm Make You Fat?\n\nMyth: Eating carbs at night turns to fat \u2014 Fat gain comes from eating more than you burn across the whole day.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "carbs",
-   "night eating",
-   "fat loss",
+   "rep range",
+   "hypertrophy",
+   "toning",
    "shorts"
   ],
   "publishAt": "2026-12-03T12:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 5,
+  "order": 21
  },
- "s18": {
-  "file": "s18.mp4",
-  "title": "Only 3 Supplements Actually Work #Shorts",
-  "desc": "Only 3 Supplements Work\n\nEverything else: SKIP IT fat burners and BCAAs do very little for most people\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s01": {
+  "file": "s01.mp4",
+  "title": "Spot Fat Loss Is a Lie (Do THIS Instead) #Shorts",
+  "desc": "Spot Fat Loss Is A Lie\n\nMyth: Crunches burn belly fat \u2014 Fat leaves your whole body, not just the area you train.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "supplements",
-   "creatine",
-   "protein powder",
-   "caffeine",
+   "fat loss",
+   "spot reduction",
+   "belly fat",
+   "fitness myths",
    "shorts"
   ],
   "publishAt": "2026-12-03T15:00:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 5,
+  "order": 22
  },
- "s19": {
-  "file": "s19.mp4",
-  "title": "Creatine Myths You Should Stop Believing #Shorts",
-  "desc": "Creatine Damages Kidneys?\n\nMyth: Creatine wrecks your kidneys \u2014 Studies in healthy people show no harm at 3\u20135 g per day.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+ "s25": {
+  "file": "s25.mp4",
+  "title": "The Hidden Calories in Alcohol #Shorts",
+  "desc": "Alcohol Hidden Calories\n\nAlso: 7 KCAL/G almost as dense as fat and it can hurt sleep and recovery\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
   "tags": [
-   "creatine",
-   "supplement myths",
-   "kidney",
-   "muscle",
-   "shorts"
-  ],
-  "publishAt": "2026-12-03T18:00:00+05:30",
-  "kind": "short"
- },
- "s08": {
-  "file": "s08.mp4",
-  "title": "The 30-Minute Anabolic Window Is Overrated #Shorts",
-  "desc": "The 30-Min Protein Rule?\n\nMyth: You must drink a shake within 30 minutes \u2014 Your muscles stay primed for hours. Daily protein matters far more.\nWhat to hit: 1.6\u20132.2 g protein per kg bodyweight per day\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
-  "tags": [
-   "protein timing",
-   "anabolic window",
-   "muscle building",
+   "alcohol",
+   "calories",
+   "fat loss",
+   "drinks",
    "shorts"
   ],
   "publishAt": "2026-12-03T22:30:00+05:30",
-  "kind": "short"
+  "kind": "short",
+  "batch": 5,
+  "order": 23
  },
  "l5": {
   "file": "l5.mp4",
@@ -467,6 +381,162 @@
    "full body workout"
   ],
   "publishAt": "2026-12-03T20:00:00+05:30",
-  "kind": "long"
+  "kind": "long",
+  "batch": 5,
+  "order": 24
+ },
+ "s03": {
+  "file": "s03.mp4",
+  "title": "Sweating More Does NOT Burn More Fat #Shorts",
+  "desc": "Sweat = Fat Loss?\n\nMyth: Sweaty workout = fat burned \u2014 Sweat is just cooling. Water weight returns when you drink.\nWhat burns fat: CALORIE DEFICIT eating less than you burn over weeks, not one session\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "sweat",
+   "fat loss myths",
+   "cardio",
+   "shorts"
+  ],
+  "publishAt": "2026-12-04T07:30:00+05:30",
+  "kind": "short",
+  "batch": 6,
+  "order": 25
+ },
+ "s29": {
+  "file": "s29.mp4",
+  "title": "Stuck at a Plateau? Fix It in 4 Steps #Shorts",
+  "desc": "Stuck On A Plateau?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "plateau",
+   "progress",
+   "training",
+   "deload",
+   "shorts"
+  ],
+  "publishAt": "2026-12-04T10:00:00+05:30",
+  "kind": "short",
+  "batch": 6,
+  "order": 26
+ },
+ "s21": {
+  "file": "s21.mp4",
+  "title": "How Many Steps Do You Really Need? #Shorts",
+  "desc": "How Many Steps A Day?\n\nHealth sweet spot: 7\u201310K steps per day linked with lower health risk\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "daily steps",
+   "walking",
+   "fat loss",
+   "NEAT",
+   "shorts"
+  ],
+  "publishAt": "2026-12-04T12:00:00+05:30",
+  "kind": "short",
+  "batch": 6,
+  "order": 27
+ },
+ "s16": {
+  "file": "s16.mp4",
+  "title": "4 Ways to Progressive Overload (Not Just Adding Weight) #Shorts",
+  "desc": "4 Ways To Progressively Overload\n\nGolden rule: LOG IT you cannot beat last week if you do not know last week\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "progressive overload",
+   "muscle growth",
+   "strength training",
+   "shorts"
+  ],
+  "publishAt": "2026-12-04T15:00:00+05:30",
+  "kind": "short",
+  "batch": 6,
+  "order": 28
+ },
+ "s20": {
+  "file": "s20.mp4",
+  "title": "Sleep Is the Most Underrated Muscle Builder #Shorts",
+  "desc": "Sleep Builds Muscle\n\nTarget: 7\u20139 HRS of sleep per night for most adults\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "sleep",
+   "recovery",
+   "muscle growth",
+   "shorts"
+  ],
+  "publishAt": "2026-12-04T22:30:00+05:30",
+  "kind": "short",
+  "batch": 6,
+  "order": 29
+ },
+ "s12": {
+  "file": "s12.mp4",
+  "title": "Calories in Protein, Carbs, Fat (and Alcohol) #Shorts",
+  "desc": "Where Do Calories Come From?\n\n\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "macros",
+   "calories per gram",
+   "nutrition basics",
+   "shorts"
+  ],
+  "publishAt": "2026-12-05T07:30:00+05:30",
+  "kind": "short",
+  "batch": 7,
+  "order": 30
+ },
+ "s05": {
+  "file": "s05.mp4",
+  "title": "Carbs at Night Do Not Make You Fat #Shorts",
+  "desc": "Carbs After 8Pm Make You Fat?\n\nMyth: Eating carbs at night turns to fat \u2014 Fat gain comes from eating more than you burn across the whole day.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "carbs",
+   "night eating",
+   "fat loss",
+   "shorts"
+  ],
+  "publishAt": "2026-12-05T10:00:00+05:30",
+  "kind": "short",
+  "batch": 7,
+  "order": 31
+ },
+ "s18": {
+  "file": "s18.mp4",
+  "title": "Only 3 Supplements Actually Work #Shorts",
+  "desc": "Only 3 Supplements Work\n\nEverything else: SKIP IT fat burners and BCAAs do very little for most people\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "supplements",
+   "creatine",
+   "protein powder",
+   "caffeine",
+   "shorts"
+  ],
+  "publishAt": "2026-12-05T12:00:00+05:30",
+  "kind": "short",
+  "batch": 7,
+  "order": 32
+ },
+ "s19": {
+  "file": "s19.mp4",
+  "title": "Creatine Myths You Should Stop Believing #Shorts",
+  "desc": "Creatine Damages Kidneys?\n\nMyth: Creatine wrecks your kidneys \u2014 Studies in healthy people show no harm at 3\u20135 g per day.\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "creatine",
+   "supplement myths",
+   "kidney",
+   "muscle",
+   "shorts"
+  ],
+  "publishAt": "2026-12-05T15:00:00+05:30",
+  "kind": "short",
+  "batch": 7,
+  "order": 33
+ },
+ "s08": {
+  "file": "s08.mp4",
+  "title": "The 30-Minute Anabolic Window Is Overrated #Shorts",
+  "desc": "The 30-Min Protein Rule?\n\nMyth: You must drink a shake within 30 minutes \u2014 Your muscles stay primed for hours. Daily protein matters far more.\nWhat to hit: 1.6\u20132.2 g protein per kg bodyweight per day\n\nFollow FORM THEORY for science-based fitness explained in 3D and animation.\nNot medical advice. Talk to your doctor before changing diet or training.\n\n#fitness #gym #workout #fatloss #musclebuilding #fitnesstips #nutrition #shorts",
+  "tags": [
+   "protein timing",
+   "anabolic window",
+   "muscle building",
+   "shorts"
+  ],
+  "publishAt": "2026-12-05T22:30:00+05:30",
+  "kind": "short",
+  "batch": 7,
+  "order": 34
  }
 }
